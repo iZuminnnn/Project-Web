@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/AddController.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/HomeController.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/DeleteCartController.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/dal/AccountDAO.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/BaseRequiredAuthorization.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/LoginController.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/index.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/css/bootstrap.min.css</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/listproduct.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/entity/Product.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/Page/Paging.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/header.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/about.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/login.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/addproduct.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/product-single.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/LogoutController.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/updateproduct.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/ListController.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/cart.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/AddCartController.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/footer.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/dal/ProductDAO.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/src/java/controller/SingleProductController.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ProjectWeb/web/scss/style.scss</file>
+        </group>
+    </open-files>
+</project-private>
